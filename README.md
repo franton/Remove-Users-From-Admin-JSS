@@ -12,6 +12,6 @@ Takes the output from a Casper extension attribute as a "whitelist" then removes
 
 5) Test!
 
-This is a prototype at present and is made available for your use at your own risk. It's also meant to work in tandem with my Add-Users-To-Admin-JSS script.
+This is a prototype at present and is made available for your use at your own risk. It's also meant to work in tandem with my Add-Users-as-Admin-JSS script, as it uses the same extension attribute.
 
 Please test on a non production environment!
