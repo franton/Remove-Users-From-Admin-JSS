@@ -10,7 +10,9 @@ Takes the output from a Casper extension attribute as a "whitelist" then removes
 
 4) Also make sure you have an api access user that has read only access to the JSS. Add that username / password to the script.
 
-5) Test!
+5) Add your local admin account (if it lives in /Users) to the localadmin variable at the top of the script.
+
+6) Test!
 
 This is a prototype at present and is made available for your use at your own risk. It's also meant to work in tandem with my Add-Users-as-Admin-JSS script, as it uses the same extension attribute.
 
